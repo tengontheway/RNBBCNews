@@ -17,14 +17,12 @@ import {
     AppRegistry,
     View,
     StyleSheet,
-    StatusBar,
-    NavigatorIOS,
-    Text,
-    ScrollView,
     ListView,
     ActivityIndicatorIOS,
     RefreshControl
 } from 'react-native';
+
+import Story from './Story.js';
 
 class Feed extends Component {
     // 构造函数
@@ -93,9 +91,7 @@ class Feed extends Component {
     // 渲染行数据
     _renderRow(rowData) {
         return (
-            <Text style={{ flex: 1 }}>
-                test....
-            </Text>
+            <Story story={rowData} navigator={this.props.navigator} />
         );
     }
 
@@ -109,6 +105,7 @@ class Feed extends Component {
                 style={styles.listview}
                 dataSource={this.state.dataSource}
                 renderRow={(rowData) => this._renderRow(rowData) }
+                contentInset={{top:0, left:0, bottom: 64, right: 0}}
                 refreshControl = {
                     <RefreshControl
                         refreshing={this.state.isRefreshing}
@@ -132,6 +129,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     listview: {
+        backgroundColor: '#eee',
     },
 
 });
