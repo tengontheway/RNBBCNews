@@ -1,52 +1,51 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * React Native BBC News
+ * https://github.com/tengontheway/RNBBCNews
+ * 参考:@SpikeKing
+ * @Evil.T
  */
+'use strict';
 
 import React, { Component } from 'react';
 import {
   AppRegistry,
   StyleSheet,
-  Text,
-  View
+  StatusBar,
+  NavigatorIOS,
 } from 'react-native';
 
+// ES6 中采用import 替换 require
+import Feed from './components/Feed.js';
+
 class RNBBCNews extends Component {
+  // 设置StatusBar样式
+  componentWillMount() {
+    // 设置StatusBar的颜色, 默认default是黑色, light-content是白色
+    // 参考: https://facebook.github.io/react-native/docs/statusbar.html#barstyle
+    StatusBar.setBarStyle('light-content');
+  }
+
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
-      </View>
+      <NavigatorIOS
+        style={{flex:1}}
+        translucent={false}
+        barTintColor={'#BB1919'}
+        titleTextColor={'white'}
+        tintColor={'white'}
+        initialRoute= {{
+          component: Feed,
+          title: "Feed",
+          passProps: {},
+        }}
+        />
     );
   }
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
+  flex: {
+    flex: 1
   },
 });
 
