@@ -1,0 +1,1827 @@
+{
+  "id" : "/cps/news/world",
+  "type" : "bbc.mobile.news.collection",
+  "format" : "bbc.mobile.news.cps.idx",
+  "language" : "en-gb",
+  "lastUpdated" : 1466469996000,
+  "site" : "/news",
+  "name" : "World",
+  "summary" : "Get the latest BBC World News: international news, features and analysis from Africa, the Asia-Pacific, Europe, Latin America, the Middle East, South Asia, and the United States and Canada.",
+  "iStatsCounter" : "news.world.page",
+  "iStatsLabels" : {
+    "page_type" : "index",
+    "cps_asset_id" : "10059378"
+  },
+  "allowAdvertising" : true,
+  "relations" : [ {
+    "eTag" : "943e75d1eeb3c24a775cccf16e067968",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.top-story",
+    "content" : {
+      "id" : "/cps/news/election-us-2016-36582770",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466468282000,
+      "site" : "/news",
+      "name" : "US election: Arrested Briton 'wanted to shoot Donald Trump'",
+      "summary" : "A Briton arrested at a Donald Trump rally trying to take a policeman's gun says said he wanted to kill the candidate, court papers say.",
+      "shortName" : "Arrested Briton 'wanted to shoot Trump'",
+      "iStatsCounter" : "news.election.us2016.story.36582770.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/69E0/production/_90040172_mediaitem90040171.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/69E0/production/_90040172_mediaitem90040171.jpg",
+          "altText" : "Police make arrest at Donald Trump's campaign rally at the Treasure Island Hotel Casino in Las Vegas, Nevada, 18 June",
+          "copyrightHolder" : "Reuters",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yz77m",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 11000,
+          "caption" : "Watch the moment the man accused of trying to grab a gun at a Donald Trump rally is removed",
+          "externalId" : "p03yz77m",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/145CC/production/_90040438_mediaitem90040437.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 976,
+              "height" : 549,
+              "href" : "http://c.files.bbci.co.uk/145CC/production/_90040438_mediaitem90040437.jpg",
+              "altText" : "Police led the suspect away at Saturday's rally",
+              "copyrightHolder" : "Reuters",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/election/us2016",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1465854848000,
+          "site" : "/news",
+          "name" : "US Election 2016",
+          "iStatsCounter" : "news.election.us2016.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "34721880"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/election/us2016",
+          "eTag" : "9176a818b40ac1a9d82c540d65e7c4d1"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/election-us-2016-36582770",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36582770"
+      }
+    }
+  }, {
+    "eTag" : "cbecba3cc1d0008ac8b7549b0c0ec732",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.second-story",
+    "content" : {
+      "id" : "/cps/news/world-middle-east-36578844",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466460336000,
+      "site" : "/news",
+      "name" : "Iran general warns Bahrain after Shia cleric stripped of citizenship",
+      "summary" : "The head of Iran's Revolutionary Guards warns of armed resistance in Bahrain after the kingdom strips a top Shia Muslim cleric of his citizenship.",
+      "shortName" : "Iranian warning to Bahrain over cleric",
+      "iStatsCounter" : "news.world.middle_east.story.36578844.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/EE91/production/_90037016_033610197.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 2048,
+          "height" : 1152,
+          "href" : "http://c.files.bbci.co.uk/EE91/production/_90037016_033610197.jpg",
+          "altText" : "Bahraini demonstrators attend protest against revocation of citizenship of Shia cleric Sheikh Isa Qassim, on June 20, 2016 near Qassim's house in village of Diraz, west of Manama",
+          "copyrightHolder" : "AFP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/middle_east",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466460427000,
+          "site" : "/news",
+          "name" : "Middle East",
+          "summary" : "Get the latest BBC News from the Middle East: breaking news, features, analysis and debate plus audio and video coverage from across the Middle East.",
+          "iStatsCounter" : "news.world.middle_east.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059388"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/middle_east",
+          "eTag" : "1842725e77fbbe945ae823cc3f3d1343"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-middle-east-36578844",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36578844"
+      }
+    }
+  }, {
+    "eTag" : "ed7d4892ff390864ef3a2fb523ef6c8b",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.third-story",
+    "content" : {
+      "id" : "/cps/news/world-europe-36579532",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466458095000,
+      "site" : "/news",
+      "name" : "Russian fan leader Shprygin back in France at Euro 2016",
+      "summary" : "Russian football fan leader Alexander Shprygin has been detained at a Euro 2016 match in France, two days after being expelled from the country, officials say.",
+      "shortName" : "Russian fan leader back in France",
+      "iStatsCounter" : "news.world.europe.story.36579532.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/48D2/production/_90024681_e0dda99d-9bbc-445d-a9bb-cd3a7f4cab07.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/48D2/production/_90024681_e0dda99d-9bbc-445d-a9bb-cd3a7f4cab07.jpg",
+          "altText" : "Alexander Shprygin and other fans leave Sheremetevo airport in Moscow 18/06/2016",
+          "caption" : "Alexander Shprygin and a group of other Russia fans flew from Nice to Moscow on Saturday",
+          "copyrightHolder" : "AFP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36579532",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36579532"
+      }
+    }
+  }, {
+    "eTag" : "dcd015533b075ecb1e36f6e09ac4cb12",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-us-canada-36578321",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466450837000,
+      "site" : "/news",
+      "name" : "Orlando gunman said 'Iâ€™m an Islamic soldier' in police call",
+      "summary" : "Omar Mateen, who killed 49 people at an Orlando gay nightclub, described himself as an Islamic soldier in calls to police during the attack.",
+      "shortName" : "Orlando gunman: Iâ€™m an Islamic soldier",
+      "iStatsCounter" : "news.world.us_and_canada.story.36578321.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/13FC7/production/_90036818_hi033560602.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/13FC7/production/_90036818_hi033560602.jpg",
+          "altText" : "Mourners in Orlando",
+          "copyrightHolder" : "Getty Images",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/us_and_canada",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466463946000,
+          "site" : "/news",
+          "name" : "US & Canada",
+          "summary" : "Get the latest American and Canadian news from BBC News in the US and Canada: breaking news, features and analysis plus audio and video content from North America.",
+          "iStatsCounter" : "news.world.us_and_canada.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059390"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/us_and_canada",
+          "eTag" : "aeaa3dab29cf83493f7f9c390265009a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-us-canada-36578321",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36578321"
+      }
+    }
+  }, {
+    "eTag" : "80bbd9722752dfd78cf2f3f85365d6bb",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-europe-36575180",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466423277000,
+      "site" : "/news",
+      "name" : "US Nato general fears rapid Russian troop deployments",
+      "summary" : "A top US commander says Russia can move large military forces to Eastern Europe faster than Nato.",
+      "shortName" : "Nato fears fast-moving Russian troops",
+      "iStatsCounter" : "news.world.europe.story.36575180.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/14459/production/_90033038_natorusspecialsafp10jul15.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/14459/production/_90033038_natorusspecialsafp10jul15.jpg",
+          "altText" : "Russian special forces training, 10 Jul 15",
+          "copyrightHolder" : "AFP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yxjfv",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 132000,
+          "caption" : "WATCH: The commander of US troops in Europe says Nato cannot rapidly deploy large forces in the way that Russia can",
+          "externalId" : "p03yxjfv",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/9AD1/production/_90033693_hodges.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 1024,
+              "height" : 576,
+              "href" : "http://c.files.bbci.co.uk/9AD1/production/_90033693_hodges.jpg",
+              "altText" : "Lieutenant General Ben Hodges",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36575180",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36575180"
+      }
+    }
+  }, {
+    "eTag" : "6e2d20786abbfaa826392d324271ae80",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-us-canada-36563337",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466462462000,
+      "site" : "/news",
+      "name" : "US Senate rejects gun control measure",
+      "summary" : "The US Senate rejects tighter background checks, one of several gun control proposals in the wake of the Orlando night club massacre.",
+      "shortName" : "US Senate rejects gun control measure",
+      "iStatsCounter" : "news.world.us_and_canada.story.36563337.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/162E3/production/_90015809_murpohy.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/162E3/production/_90015809_murpohy.jpg",
+          "altText" : "Senator Chris Murphy",
+          "caption" : "Senator Chris Murphy (pictured) held the floor for nearly 15 hours to urge a vote on gun control",
+          "copyrightHolder" : "AP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/us_and_canada",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466463946000,
+          "site" : "/news",
+          "name" : "US & Canada",
+          "summary" : "Get the latest American and Canadian news from BBC News in the US and Canada: breaking news, features and analysis plus audio and video content from North America.",
+          "iStatsCounter" : "news.world.us_and_canada.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059390"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/us_and_canada",
+          "eTag" : "aeaa3dab29cf83493f7f9c390265009a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-us-canada-36563337",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36563337"
+      }
+    }
+  }, {
+    "eTag" : "d32e95c5af78ad2c2995ec664ebf1cc8",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-europe-36578935",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466433202000,
+      "site" : "/news",
+      "name" : "France's first Shakespearean-style theatre vandalised",
+      "summary" : "France's first ever Shakespearean Globe-style theatre is vandalised just a week before its official opening.",
+      "shortName" : "Vandals hit French Shakespeare theatre",
+      "iStatsCounter" : "news.world.europe.story.36578935.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/956D/production/_90035283_mediaitem90035282.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/956D/production/_90035283_mediaitem90035282.jpg",
+          "altText" : "An image of the theatre design",
+          "caption" : "The theatre's design has been hailed as a major innovation in France",
+          "copyrightHolder" : "STUDIO ANDREW TODD",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36578935",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36578935"
+      }
+    }
+  }, {
+    "eTag" : "9b531b6cee6028e88df46d2a12f869f8",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-us-canada-36580731",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466442480000,
+      "site" : "/news",
+      "name" : "Anton Yelchin death: Fiat Chrysler probe after Star Trek actor killed by his car",
+      "summary" : "Fiat Chrysler says it will investigate after Star Trek actor Anton Yelchin is killed by a car that had been recalled in Los Angeles.",
+      "shortName" : "Actor Yelchin's death prompts car probe",
+      "iStatsCounter" : "news.world.us_and_canada.story.36580731.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/14193/production/_90032328_29a191ee-2cbb-4c75-8acc-ac60c9c9cbb7.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/14193/production/_90032328_29a191ee-2cbb-4c75-8acc-ac60c9c9cbb7.jpg",
+          "altText" : "Anton Yelchin",
+          "copyrightHolder" : "Paramount",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/us_and_canada",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466463946000,
+          "site" : "/news",
+          "name" : "US & Canada",
+          "summary" : "Get the latest American and Canadian news from BBC News in the US and Canada: breaking news, features and analysis plus audio and video content from North America.",
+          "iStatsCounter" : "news.world.us_and_canada.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059390"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/us_and_canada",
+          "eTag" : "aeaa3dab29cf83493f7f9c390265009a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-us-canada-36580731",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36580731"
+      }
+    }
+  }, {
+    "eTag" : "48bc9b9872016105327d9345b6e416c7",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-latin-america-36576771",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466468574000,
+      "site" : "/news",
+      "name" : "Venezuela starts validating recall referendum signatures",
+      "summary" : "More than 70,000 people calling for a referendum to oust President Nicolas Maduro have their signatures checked on the first day of the validation process.",
+      "shortName" : "Venezuela checks recall signatures",
+      "iStatsCounter" : "news.world.latin_america.story.36576771.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/A608/production/_90040524_mediaitem90040523.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 768,
+          "height" : 432,
+          "href" : "http://c.files.bbci.co.uk/A608/production/_90040524_mediaitem90040523.jpg",
+          "altText" : "Women show their ID cards as they have their signatures checked in Caracas",
+          "copyrightHolder" : "AP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/latin_america",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466444858000,
+          "site" : "/news",
+          "name" : "Latin America & Caribbean",
+          "summary" : "Get the latest Latin American and Caribbean news from BBC News in Latin America and the Caribbean: breaking news, features and analysis plus audio and video content from Mexico, Central and South America, and the Caribbean.",
+          "iStatsCounter" : "news.world.latin_america.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059387"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/latin_america",
+          "eTag" : "cfc6600cd80a75a5d8698ebbc00fa71a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-latin-america-36576771",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36576771"
+      }
+    }
+  }, {
+    "eTag" : "c946af6b87208e210756a8f46b2dcd2a",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-europe-36578698",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466441986000,
+      "site" : "/news",
+      "name" : "France: mum on trial over baby left on beach to die",
+      "summary" : "A woman goes on trial in France on suspicion of leaving her infant daughter on a beach to die on a cold November night.",
+      "shortName" : "French mother on trial over baby death",
+      "iStatsCounter" : "news.world.europe.story.36578698.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/F64D/production/_90035036_fabienne.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/F64D/production/_90035036_fabienne.jpg",
+          "altText" : "court sketch of Fabienne Kabou",
+          "caption" : "The trial in Saint-Omer is expected to last a week",
+          "copyrightHolder" : "AFP",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36578698",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36578698"
+      }
+    }
+  }, {
+    "eTag" : "8704cd79f89c8e03aca9b98f216cf1eb",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/world-europe-36578239",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466440953000,
+      "site" : "/news",
+      "name" : "Spain anti-doping: Aden, coach of Genzebe Dibaba, arrested",
+      "summary" : "The coach of the women's 1,500m world record holder and reigning world champion is arrested in Spain as part of an anti-doping operation.",
+      "shortName" : "Athletics coach held in anti-doping raid",
+      "iStatsCounter" : "news.world.europe.story.36578239.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/BF2F/production/_90034984_mediaitem90034982.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/BF2F/production/_90034984_mediaitem90034982.jpg",
+          "altText" : "Police officers take away material seized during the raid",
+          "caption" : "Police officers were seen removing boxes of confiscated material",
+          "copyrightHolder" : "EPA",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36578239",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36578239"
+      }
+    }
+  }, {
+    "eTag" : "4cda96c292c6a6514051ad00b0864ae1",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.other-top-stories",
+    "content" : {
+      "id" : "/cps/news/business-36581743",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466448784000,
+      "site" : "/news",
+      "name" : "Walmart announces Chinese partnership with JD.com",
+      "summary" : "Walmart announces a partnership with the Chinese e-commerce firm JD.com to help revive the struggling website Yihaodian.",
+      "shortName" : "Walmart in deal with China giant JD.com",
+      "iStatsCounter" : "news.business.story.36581743.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/852D/production/_90039043_gettyimages-72581382.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/852D/production/_90039043_gettyimages-72581382.jpg",
+          "altText" : "Walmart China",
+          "copyrightHolder" : "Getty Images",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/business",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466470684000,
+          "site" : "/news",
+          "name" : "Business",
+          "summary" : "The latest BBC Business News: breaking personal finance, company, financial and economic news, plus insight and analysis into UK and global markets.",
+          "iStatsCounter" : "news.business.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059368"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/business",
+          "eTag" : "b9d4277ff64db9bf1d7b6163eaa908b5"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/business-36581743",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36581743"
+      }
+    }
+  }, {
+    "eTag" : "7bc68bc86eb9abde7b3dc7f45077b932",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.also-in-the-news",
+    "content" : {
+      "id" : "/cps/news/world-australia-36573282",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466397614000,
+      "site" : "/news",
+      "name" : "Social media users mourn popular 'cuddle-loving' Australia wombat",
+      "summary" : "Hundreds of Australians are paying tribute on social media to a popular \"cuddle-loving\" wombat after it died of kidney damage.",
+      "shortName" : "Social media users mourn much-loved wombat",
+      "iStatsCounter" : "news.world.australia.story.36573282.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/1574/production/_90029450_13497901_1126127540782994_5812545378966610947_o.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/1574/production/_90029450_13497901_1126127540782994_5812545378966610947_o.jpg",
+          "altText" : "Tonka the wombat",
+          "caption" : "The park said it was overwhelmed by the public reaction to the loss of the \"good-natured\"",
+          "copyrightHolder" : "Billabong Sanctuary",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/australia",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469331000,
+          "site" : "/news",
+          "name" : "Australia",
+          "summary" : "Get the latest BBC World News: international news, features and analysis from Africa, the Asia-Pacific, Europe, Latin America, the Middle East, South Asia, and the United States and Canada.",
+          "iStatsCounter" : "news.world.australia.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "29035072"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/australia",
+          "eTag" : "011dc0043a8673af320f4cc75e47e731"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-australia-36573282",
+      "nameOverride" : "Australia mourns much-loved wombat",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36573282"
+      }
+    }
+  }, {
+    "eTag" : "1a1e5c0b020dd628bd01309510c3378d",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.also-in-the-news",
+    "content" : {
+      "id" : "/cps/news/world-europe-36567871",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466273218000,
+      "site" : "/news",
+      "name" : "Italy: Christo 'walk on water' project opens on Lake Iseo",
+      "summary" : "Thousands of people try out the latest installation by conceptual artist Christo - a 3km (1.9 mile) walkway on water in northern Italy.",
+      "shortName" : "Christo 'walk on water' project opens",
+      "iStatsCounter" : "news.world.europe.story.36567871.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/D626/production/_90022845_cf973069-33d6-4f72-ace0-f3300e07e3f2.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/D626/production/_90022845_cf973069-33d6-4f72-ace0-f3300e07e3f2.jpg",
+          "altText" : "view from the art installation The Floating Piers by Bulgarian-born artist known as Christo on Lake Iseo, northern Italy,",
+          "copyrightHolder" : "Reuters",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36567871",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36567871"
+      }
+    }
+  }, {
+    "eTag" : "dc05907a3801999cf5854501591098a9",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/technology-36574164",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466444820000,
+      "site" : "/news",
+      "name" : "Solar Impulse takes to the skies on Atlantic voyage",
+      "summary" : "The Solar Impulse 2 aircraft has set off from New York to cross the Atlantic for the latest stage of an attempt to fly around the globe using solar energy.",
+      "shortName" : "Solar Impulse sets off across Atlantic",
+      "iStatsCounter" : "news.technology.media_asset.36574164.page",
+      "allowAdvertising" : true,
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/F67F/production/_90030136_mediaitem90030135.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 640,
+          "height" : 360,
+          "href" : "http://c.files.bbci.co.uk/F67F/production/_90030136_mediaitem90030135.jpg",
+          "altText" : "Solar Impulse in flight",
+          "copyrightHolder" : "Getty Images",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yyhbw",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 52000,
+          "caption" : "Solar Impulse takes to the skies on Atlantic voyage",
+          "externalId" : "p03yyhbz",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "relations" : [ ],
+          "iChefUrl" : "http://ichef.bbci.co.uk/images/ic/$recipe/p03yykrj.jpg"
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/technology",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466467399000,
+          "site" : "/news",
+          "name" : "Technology",
+          "summary" : "Get the latest BBC Technology News: breaking news and analysis on computing, the web, blogs, games, gadgets, social media, broadband and more.",
+          "iStatsCounter" : "news.technology.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059376"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/technology",
+          "eTag" : "6b787ab9f4b9c8f499427ee526c34f79"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/technology-36574164",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36574164"
+      }
+    }
+  }, {
+    "eTag" : "da02f94abfe5ed418ea977ce4ea8ed7e",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-us-canada-36581562",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466459280000,
+      "site" : "/news",
+      "name" : "Orlando gunman phone transcripts released",
+      "summary" : "Partial transcripts of phone calls have been released between police and the Orlando gunman Omar Mateen who killed 49 people in a nightclub.",
+      "shortName" : "Gunman phone transcripts released",
+      "iStatsCounter" : "news.world.us_and_canada.media_asset.36581562.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/14A3/production/_90038250_mediaitem90038248.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 640,
+          "height" : 360,
+          "href" : "http://c.files.bbci.co.uk/14A3/production/_90038250_mediaitem90038248.jpg",
+          "altText" : "Omar Mateen",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yz253",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 91000,
+          "caption" : "Transcripts of phone calls have been released between police and the Orlando gunman Omar Mateen, as Aleem Maqbool reports",
+          "externalId" : "p03yz253",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/1704B/production/_90038249_mediaitem90038248.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 640,
+              "height" : 360,
+              "href" : "http://c.files.bbci.co.uk/1704B/production/_90038249_mediaitem90038248.jpg",
+              "altText" : "Omar Mateen",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/us_and_canada",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466463946000,
+          "site" : "/news",
+          "name" : "US & Canada",
+          "summary" : "Get the latest American and Canadian news from BBC News in the US and Canada: breaking news, features and analysis plus audio and video content from North America.",
+          "iStatsCounter" : "news.world.us_and_canada.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059390"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/us_and_canada",
+          "eTag" : "aeaa3dab29cf83493f7f9c390265009a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-us-canada-36581562",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36581562"
+      }
+    }
+  }, {
+    "eTag" : "3bbbb84b594a2da6e1b3b462010d1461",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/entertainment-arts-36578195",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466429259000,
+      "site" : "/news",
+      "name" : "Director JJ Abrams leads the tributes to Star Trek star Anton Yelchin",
+      "summary" : "Anton Yelchin's Star Trek colleagues have lead the tributes to the actor who has died at the age of 27.",
+      "shortName" : "Star Trek director leads tributes to Anton Yelchin",
+      "iStatsCounter" : "news.entertainment_and_arts.media_asset.36578195.page",
+      "allowAdvertising" : false,
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/5A99/production/_90039132_p03yyq0r.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 1024,
+          "height" : 576,
+          "href" : "http://c.files.bbci.co.uk/5A99/production/_90039132_p03yyq0r.jpg",
+          "altText" : "Anton Yelchin's Star Trek colleagues have lead the tributes to the actor who has died at the age of 27.",
+          "copyrightHolder" : "Anton Yelchin's Star Trek colleagues have lead the",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yxs00",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 112000,
+          "caption" : "Director JJ Abrams leads the tributes to Star Trek star Anton Yelchin, as David Sillito reports",
+          "externalId" : "p03yxs08",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "relations" : [ ],
+          "iChefUrl" : "http://ichef.bbci.co.uk/images/ic/$recipe/p03yyq1s.jpg"
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/entertainment_and_arts",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466470684000,
+          "site" : "/news",
+          "name" : "Entertainment & Arts",
+          "summary" : "Get the latest BBC Entertainment and Arts news: breaking news, views and analysis on celebrities, music, film, theatre, books and literature, TV and radio including audio-video content.",
+          "iStatsCounter" : "news.entertainment_and_arts.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10072371"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/entertainment_and_arts",
+          "eTag" : "6c6afe0573d027985e8cbb37a8869023"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/entertainment-arts-36578195",
+      "nameOverride" : "Star Trek director leads tributes to Yelchin",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36578195"
+      }
+    }
+  }, {
+    "eTag" : "e1f87c6adab0f9b6d3f7c5ee76599104",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-europe-36574168",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466428272000,
+      "site" : "/news",
+      "name" : "Tricky task for Rome's first female mayor",
+      "summary" : "Virginia Raggi has been elected Rome's first female mayor, taking 67% of the vote and promising a clean up.",
+      "shortName" : "Tricky task for Rome's first female mayor",
+      "iStatsCounter" : "news.world.europe.media_asset.36574168.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/1727B/production/_90034849_mediaitem90030972.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/1727B/production/_90034849_mediaitem90030972.jpg",
+          "altText" : "Virginia Raggi",
+          "copyrightHolder" : "EPA",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yxr96",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 117000,
+          "caption" : "James Reynolds looks at the challenges ahead for Rome's first female mayor",
+          "externalId" : "p03yxr96",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/940F/production/_90030973_mediaitem90030972.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 640,
+              "height" : 360,
+              "href" : "http://c.files.bbci.co.uk/940F/production/_90030973_mediaitem90030972.jpg",
+              "altText" : "Virginia Raggi",
+              "copyrightHolder" : "EPA",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36574168",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36574168"
+      }
+    }
+  }, {
+    "eTag" : "67eb48e05f5d42811f572799d2fe4e1f",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-latin-america-36573096",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466377451000,
+      "site" : "/news",
+      "name" : "The tribe standing up to illegal Amazon loggers in Brazil",
+      "summary" : "Mairusa Ka'apor, a leader in the small Brazilian village of Giurupina, tells the BBC how the Ka'apor tribe lives - and talks about the fight to protect the forest.",
+      "shortName" : "The tribe standing up to Amazon loggers",
+      "iStatsCounter" : "news.world.latin_america.media_asset.36573096.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/7DC0/production/_90029123_mediaitem90029120.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/7DC0/production/_90029123_mediaitem90029120.jpg",
+          "altText" : "Mairusa Ka'apor",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yvx7b",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 128000,
+          "caption" : "Mairusa Ka'apor: \"They (illegal loggers) killed one of us here, that was a very sad day\"",
+          "externalId" : "p03yvx7b",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/2FA0/production/_90029121_mediaitem90029120.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 976,
+              "height" : 549,
+              "href" : "http://c.files.bbci.co.uk/2FA0/production/_90029121_mediaitem90029120.jpg",
+              "altText" : "Mairusa Ka'apor",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/latin_america",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466444858000,
+          "site" : "/news",
+          "name" : "Latin America & Caribbean",
+          "summary" : "Get the latest Latin American and Caribbean news from BBC News in Latin America and the Caribbean: breaking news, features and analysis plus audio and video content from Mexico, Central and South America, and the Caribbean.",
+          "iStatsCounter" : "news.world.latin_america.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059387"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/latin_america",
+          "eTag" : "cfc6600cd80a75a5d8698ebbc00fa71a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-latin-america-36573096",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36573096"
+      }
+    }
+  }, {
+    "eTag" : "abdb56ba3d266d686524fc3d66528c01",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-asia-36562116",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466375162000,
+      "site" : "/news",
+      "name" : "South China Sea: Does a book prove China's claim?",
+      "summary" : "The BBC's John Sudworth tries to trace a book that Chinese media claim is \"proof\" of the country's claim to sovereignty over the South China Sea.",
+      "shortName" : "Search for South China Sea 'evidence'",
+      "iStatsCounter" : "news.world.asia.media_asset.36562116.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/17FB7/production/_90013289_53d46bdb-e615-401d-9903-480d990964c2.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 1920,
+          "height" : 1080,
+          "href" : "http://c.files.bbci.co.uk/17FB7/production/_90013289_53d46bdb-e615-401d-9903-480d990964c2.jpg",
+          "altText" : "Fisherman Su Chengfen",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03yv35b",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 168000,
+          "caption" : "The BBC's John Sudworth went to track down the famed 600-year-old book",
+          "externalId" : "p03yv35b",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/BC67/production/_90013284_mediaitem90013283.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 640,
+              "height" : 360,
+              "href" : "http://c.files.bbci.co.uk/BC67/production/_90013284_mediaitem90013283.jpg",
+              "altText" : "John Sudworth speaks to Su Chengfen",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/asia",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469961000,
+          "site" : "/news",
+          "name" : "Asia",
+          "summary" : "Get the latest Asian news from BBC News in Asia: breaking news, features, analysis and special reports plus audio and video from across the Asian continent.",
+          "iStatsCounter" : "news.world.asia.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "15296612"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/asia",
+          "eTag" : "df903b17da6e8dbb5a963684e70c56c2"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-asia-36562116",
+      "nameOverride" : "Is ancient South China Sea 'evidence'?",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36562116"
+      }
+    }
+  }, {
+    "eTag" : "077ad1f6e66a248fd6b4424e0ae71697",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-middle-east-36573101",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466396795000,
+      "site" : "/news",
+      "name" : "Thousands flee Falluja amid 'humanitarian disaster' warning",
+      "summary" : "A humanitarian disaster is unfolding around the embattled Iraqi city of Falluja as the Iraqi army fights to drive the so-called Islamic State out of the city.",
+      "shortName" : "Fears of Falluja 'humanitarian disaster'",
+      "iStatsCounter" : "news.world.middle_east.media_asset.36573101.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/9E2C/production/_90029404_mediaitem90029402.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/9E2C/production/_90029404_mediaitem90029402.jpg",
+          "altText" : "Woman and children in camp",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03ywcr7",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 99000,
+          "caption" : "The BBC's Alan Johnston reports: \"Tens of thousands of Falluja's people have come to camps\"",
+          "externalId" : "p03ywcr7",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/771C/production/_90029403_mediaitem90029402.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 976,
+              "height" : 549,
+              "href" : "http://c.files.bbci.co.uk/771C/production/_90029403_mediaitem90029402.jpg",
+              "altText" : "Woman and children in camp",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/middle_east",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466460427000,
+          "site" : "/news",
+          "name" : "Middle East",
+          "summary" : "Get the latest BBC News from the Middle East: breaking news, features, analysis and debate plus audio and video coverage from across the Middle East.",
+          "iStatsCounter" : "news.world.middle_east.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059388"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/middle_east",
+          "eTag" : "1842725e77fbbe945ae823cc3f3d1343"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-middle-east-36573101",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36573101"
+      }
+    }
+  }, {
+    "eTag" : "c1d04baf3d688671c1d05aeb38275e6e",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.av-stories-best",
+    "content" : {
+      "id" : "/cps/news/world-middle-east-36574163",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.video",
+      "language" : "en-gb",
+      "lastUpdated" : 1466409969000,
+      "site" : "/news",
+      "name" : "Syrian refugees take up micro gardening in Lebanon",
+      "summary" : "A charity is helping refugees living in Lebanon, where they are unable to work or grow crops, to build their own micro gardens.",
+      "shortName" : "Syrian refugees take up micro gardening",
+      "iStatsCounter" : "news.world.middle_east.media_asset.36574163.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/0C1F/production/_90030130_mediaitem90030129.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/0C1F/production/_90030130_mediaitem90030129.jpg",
+          "altText" : "Children gardening",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.video",
+        "secondaryType" : "bbc.mobile.news.placement.primary",
+        "content" : {
+          "id" : "/video/p03ywvyy",
+          "type" : "bbc.mobile.news.video",
+          "duration" : 115000,
+          "caption" : "The charity is helping refugees to grow their own plants",
+          "externalId" : "p03ywvyy",
+          "isEmbeddable" : false,
+          "isAvailable" : true,
+          "isLive" : false,
+          "relations" : [ {
+            "primaryType" : "bbc.mobile.news.image",
+            "secondaryType" : "bbc.mobile.news.placement.poster",
+            "content" : {
+              "id" : "/cpsprodpb/07C8/production/_90029910_mediaitem90029909.jpg",
+              "type" : "bbc.mobile.news.image",
+              "width" : 640,
+              "height" : 360,
+              "href" : "http://c.files.bbci.co.uk/07C8/production/_90029910_mediaitem90029909.jpg",
+              "altText" : "Children gardening",
+              "copyrightHolder" : "BBC",
+              "relations" : [ ]
+            }
+          } ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/middle_east",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466460427000,
+          "site" : "/news",
+          "name" : "Middle East",
+          "summary" : "Get the latest BBC News from the Middle East: breaking news, features, analysis and debate plus audio and video coverage from across the Middle East.",
+          "iStatsCounter" : "news.world.middle_east.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059388"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/middle_east",
+          "eTag" : "1842725e77fbbe945ae823cc3f3d1343"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-middle-east-36574163",
+      "iStatsLabels" : {
+        "page_type" : "media-asset",
+        "cps_asset_id" : "36574163"
+      }
+    }
+  }, {
+    "eTag" : "1ae99072a2a960daed1f0d0f23c816a3",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.feature-main",
+    "content" : {
+      "id" : "/cps/news/world-asia-india-36415078",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466469840000,
+      "site" : "/news",
+      "name" : "Why India is a nation of foodies",
+      "summary" : "The obsession with food defines Indian identity and personality to the point of both ridicule and delight, writes Ritu Rohagi",
+      "shortName" : "Why India is a nation of foodies",
+      "iStatsCounter" : "news.world.asia.india.story.36415078.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/01AC/production/_89982400_img_3913.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/01AC/production/_89982400_img_3913.jpg",
+          "altText" : "Butter chicken",
+          "caption" : "For years India has struggled to translate its finicky food fastidiousness to restaurants",
+          "copyrightHolder" : "Ankit Srinivas",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/asia/india",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469860000,
+          "site" : "/news",
+          "name" : "India",
+          "summary" : "Get the latest Asian news from BBC News in Asia: breaking news, features, analysis and special reports plus audio and video from across the Asian continent.",
+          "iStatsCounter" : "news.world.asia.india.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "15592104"
+          },
+          "allowAdvertising" : true,
+          "topic" : "/ldp/5a08f030-710f-4168-acee-67294a90fc75",
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/asia/india",
+          "eTag" : "8ad4c6beac6300b96d74d08d4b5626a0"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-asia-india-36415078",
+      "summaryOverride" : "What drives India's national culinary obsession?",
+      "nameOverride" : "Nation of foodies",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36415078"
+      }
+    }
+  }, {
+    "eTag" : "81954842d4d10dec2a7e780a6ccb327c",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.feature-main",
+    "content" : {
+      "id" : "/cps/news/magazine-36580311",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466463680000,
+      "site" : "/news",
+      "name" : "How a street child became a leading artist",
+      "summary" : "Lita Cabellut is one of Spain's most successful artists spent her early years living on the streets.",
+      "shortName" : "How a street child became a leading artist",
+      "iStatsCounter" : "news.magazine.story.36580311.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/14ACB/production/_90038648_8f942a6b-d00a-424b-ae67-acbfb8cadfd1.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/14ACB/production/_90038648_8f942a6b-d00a-424b-ae67-acbfb8cadfd1.jpg",
+          "altText" : "Lita Cabellut",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/magazine",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466425154000,
+          "site" : "/news",
+          "name" : "Magazine",
+          "summary" : "BBC News Magazine: in-depth features on topical issues plus a round-up of UK newspapers, your letters and a daily mini-quiz.",
+          "iStatsCounter" : "news.magazine.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10060770"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/magazine",
+          "eTag" : "7fe36b7403a9ce47e08e5fcf16a2a379"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/magazine-36580311",
+      "summaryOverride" : "How a an abandoned child became a leading artist",
+      "nameOverride" : "Saved from the street",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36580311"
+      }
+    }
+  }, {
+    "eTag" : "953e1cdc7fdce7974291521c5abe4f05",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.feature-main",
+    "content" : {
+      "id" : "/cps/news/world-europe-36573914",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466468270000,
+      "site" : "/news",
+      "name" : "Turkish students fear assault on secular education",
+      "summary" : "When a group of high school students in Istanbul turned their backs on their head teacher at a graduation ceremony, a wave of protests began across Turkey.",
+      "shortName" : "Turkish students fear assault on secular education",
+      "iStatsCounter" : "news.world.europe.story.36573914.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/B90D/production/_90037374_turk1.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/B90D/production/_90037374_turk1.jpg",
+          "altText" : "Turkey school protest",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/europe",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469049000,
+          "site" : "/news",
+          "name" : "Europe",
+          "summary" : "Get the latest European news from BBC News in Europe: headlines, features and analysis from BBC correspondents across the European Union, EU, and the rest of Europe.",
+          "iStatsCounter" : "news.world.europe.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059386"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/europe",
+          "eTag" : "af436316f631c3fe95add0cbe8c0eb18"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-europe-36573914",
+      "summaryOverride" : "Turkey's students fear assault on secular education ",
+      "nameOverride" : "'Prayer rooms but no labs'",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36573914"
+      }
+    }
+  }, {
+    "eTag" : "466a39f58c12b3259aadbc3b5fa402bf",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.feature-main",
+    "content" : {
+      "id" : "/cps/news/world-latin-america-36573075",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466380195000,
+      "site" : "/news",
+      "name" : "Brazil's indigenous leaders risk their lives fighting for survival",
+      "summary" : "Brazil's indigenous leaders risk their lives defending tribes from illegal loggers and miners, as the BBC's Wyre Davies reports.",
+      "shortName" : "Brazil's indigenous leaders risk their lives fighting for survival",
+      "iStatsCounter" : "news.world.latin_america.correspondent_story.36573075.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/F6D8/production/_90029136_ka'aporchiefosmar.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 976,
+          "height" : 549,
+          "href" : "http://c.files.bbci.co.uk/F6D8/production/_90029136_ka'aporchiefosmar.jpg",
+          "altText" : "Ka'apor Chief Osmar",
+          "caption" : "Chief Osmar says Ka'apor members do not want a city life",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/latin_america",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466444858000,
+          "site" : "/news",
+          "name" : "Latin America & Caribbean",
+          "summary" : "Get the latest Latin American and Caribbean news from BBC News in Latin America and the Caribbean: breaking news, features and analysis plus audio and video content from Mexico, Central and South America, and the Caribbean.",
+          "iStatsCounter" : "news.world.latin_america.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "10059387"
+          },
+          "allowAdvertising" : true,
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/latin_america",
+          "eTag" : "cfc6600cd80a75a5d8698ebbc00fa71a"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-latin-america-36573075",
+      "summaryOverride" : "The risks Brazil's indigenous leaders face defending their tribes",
+      "nameOverride" : "Fighting for survival",
+      "iStatsLabels" : {
+        "page_type" : "correspondent-story",
+        "cps_asset_id" : "36573075"
+      }
+    }
+  }, {
+    "eTag" : "bcaea37a5d7ab6c708e6fe4419621a64",
+    "primaryType" : "bbc.mobile.news.item",
+    "secondaryType" : "bbc.mobile.news.group.feature-main",
+    "content" : {
+      "id" : "/cps/news/world-asia-china-36545565",
+      "type" : "bbc.mobile.news.item",
+      "format" : "bbc.mobile.news.format.textual",
+      "language" : "en-gb",
+      "lastUpdated" : 1466375131000,
+      "site" : "/news",
+      "name" : "South China Sea: The mystery of missing books and maritime claims",
+      "summary" : "The maritime militias, missing history books, and package holiday tourists being used to bolster China's South China Sea claims.",
+      "shortName" : "Missing books and maritime claims",
+      "iStatsCounter" : "news.world.asia.china.story.36545565.page",
+      "relations" : [ {
+        "primaryType" : "bbc.mobile.news.image",
+        "secondaryType" : "bbc.mobile.news.placement.index",
+        "content" : {
+          "id" : "/cpsprodpb/12B10/production/_90006567_b96df946-cafd-4cce-95b9-65a8cdfc7d32.jpg",
+          "type" : "bbc.mobile.news.image",
+          "width" : 1920,
+          "height" : 1080,
+          "href" : "http://c.files.bbci.co.uk/12B10/production/_90006567_b96df946-cafd-4cce-95b9-65a8cdfc7d32.jpg",
+          "altText" : "Chinese flag flies from a fishing boat on the coast in Hainan.",
+          "caption" : "China's fishing fleet is often involved in projecting the country's territorial claims at sea",
+          "copyrightHolder" : "BBC",
+          "relations" : [ ]
+        }
+      }, {
+        "primaryType" : "bbc.mobile.news.collection",
+        "secondaryType" : "bbc.mobile.news.home_section",
+        "content" : {
+          "id" : "/cps/news/world/asia/china",
+          "type" : "bbc.mobile.news.collection",
+          "format" : "bbc.mobile.news.cps.idx",
+          "language" : "en-gb",
+          "lastUpdated" : 1466469757000,
+          "site" : "/news",
+          "name" : "China",
+          "summary" : "Get the latest Asian news from BBC News in Asia: breaking news, features, analysis and special reports plus audio and video from across the Asian continent.",
+          "iStatsCounter" : "news.world.asia.china.page",
+          "iStatsLabels" : {
+            "page_type" : "index",
+            "cps_asset_id" : "15296724"
+          },
+          "allowAdvertising" : true,
+          "topic" : "/ldp/6892384e-1966-4c03-9ce3-f694a8f9f69e",
+          "relations" : [ ],
+          "shareUrl" : "http://www.bbc.co.uk/news/world/asia/china",
+          "eTag" : "e81f615929600bbf89eef9434f24f659"
+        }
+      } ],
+      "shareUrl" : "http://www.bbc.co.uk/news/world-asia-china-36545565",
+      "summaryOverride" : "China deploys history books and tourists in sea dispute",
+      "nameOverride" : "Maritime claims",
+      "iStatsLabels" : {
+        "page_type" : "story",
+        "cps_asset_id" : "36545565"
+      }
+    }
+  } ],
+  "shareUrl" : "http://www.bbc.co.uk/news/world",
+  "eTag" : "3f38aa16de1aae1c4afc77f5ad63ec50"
+}
