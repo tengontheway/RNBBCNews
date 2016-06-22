@@ -71,7 +71,6 @@ class Story extends Component {
                 return item.primaryType === 'bbc.mobile.news.collection';
             });
         } else {
-            alert('000000');
             throw 'No collection found';
         }
     }
